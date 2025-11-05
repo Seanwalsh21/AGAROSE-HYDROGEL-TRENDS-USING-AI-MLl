@@ -11,6 +11,3 @@ Here is complete guide for you. how you can setup everything.
 4. you can run 'train_all_model.py' file to train all the models.
 
 
-Any body can access my code and analysis files and dataset as well.Its public right now. if you make changes and trying to update it. don't forget to give me credits.
-Thank you very much
-Your sean.
