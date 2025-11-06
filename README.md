@@ -14,7 +14,8 @@ Here is complete guide for you. how you can setup everything.
 
 The final directory should looks like this to avoid any error path related issues:
 
-![tmp](https://github.com/user-attachments/assets/12cf2b49-c866-4021-95b7-3569270d02c1)
+![tmp2](https://github.com/user-attachments/assets/6e188a8c-6b26-4eed-94de-50c7b0dcfa48)
+
 
                                    
 
