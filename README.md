@@ -14,6 +14,9 @@ Here is complete guide for you. how you can setup everything.
 
 The final directory should looks like this to avoid any error path related issues:
 
+![tmp](https://github.com/user-attachments/assets/12cf2b49-c866-4021-95b7-3569270d02c1)
+
+
 AGAROSE-HYDROGEL-TRENDS-USING-AI-ML-> [STED] Internal 0.375% 
                                   |-> Accuracy 
                                   |-> AFM Accuracy INTERNAL
