@@ -16,19 +16,5 @@ The final directory should looks like this to avoid any error path related issue
 
 ![tmp](https://github.com/user-attachments/assets/12cf2b49-c866-4021-95b7-3569270d02c1)
 
-
-AGAROSE-HYDROGEL-TRENDS-USING-AI-ML-> [STED] Internal 0.375% 
-                                  |-> Accuracy 
-                                  |-> AFM Accuracy INTERNAL
-                                  |->  ...
-                                  |-> CODE -------------------------------->BASE_DIR
-                                  |-> ...                                |->BUBBLE ANALYSIS CODE
-                                                                         |->DL MODELS (copy)---------------------------------> Analysis Results 1
-                                                                         |->FIBER ANALYSIS CODE                            |-> Analysis Results 2
-                                                                         |-> ...                                           |-> Dataset
-                                                                                                                           |-> Labels
-                                                                                                                           |-> models
-                                                                                                                           |-> weights
-                                                                                                                           |-> ...
                                    
 
