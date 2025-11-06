@@ -13,6 +13,7 @@ Here is complete guide for you. how you can setup everything.
 6. you can run 'train_all_model.py' file to train all the models.
 
 The final directory should looks like this to avoid any error path related issues:
+
 AGAROSE-HYDROGEL-TRENDS-USING-AI-ML-> [STED] Internal 0.375% 
                                   |-> Accuracy 
                                   |-> AFM Accuracy INTERNAL
@@ -25,5 +26,6 @@ AGAROSE-HYDROGEL-TRENDS-USING-AI-ML-> [STED] Internal 0.375%
                                                                                                                            |-> Labels
                                                                                                                            |-> models
                                                                                                                            |-> weights
+                                                                                                                           |-> ...
                                    
 
